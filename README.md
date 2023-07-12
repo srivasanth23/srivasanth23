@@ -26,22 +26,35 @@ I've always been a dedicated student currently in 3rd year of B.Tech Computer Sc
 | Tools| Git, Canva, Photoshop |
 | Other| Photography, Videography |
 
+## 🔭 Projects
+<details>
+<summary><b>Web Devlopment</b></summary>
+  <br/>
+
+Task Name | Tool | Source Code | 
+------- | --------- | :--------: | 
+World Around You | HTML, CSS, JS, Bootstrap, Rest API's | [Repo](https://github.com/srivasanth23/WorldAroundYou)
+
+</details>
+
+<details>
+<summary> <h3>📊 Github Statistics</h3> </summary>
+<div align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srivasanth23&label=Profile%20views&color=0e75b6&style=flat" alt="srivasanth23" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srivasanth23&show_icons=true&locale=en&layout=compact" alt="srivasanth23" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srivasanth23&show_icons=true&locale=en" alt="srivasanth23" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srivasanth23&" alt="srivasanth23" /></p>
+</div>
+</details>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/srivasanth-jammula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srivasanth-jammula" height="30" width="40" /></a>
-<a href="https://instagram.com/jammulasrivasanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jammulasrivasanth" height="30" width="40" /></a>
+<a href="https://www.github.com/srivasanth23" target="_blank"><img alt="Github" width="40px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"></a> &nbsp&nbsp&nbsp
+<a href="[https://www.linkedin.com/in/mahimachuri/](https://linkedin.com/in/https://www.linkedin.com/in/srivasanth-jammula)" target="_blank"><img alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a> &nbsp&nbsp&nbsp
+<a href="[https://www.instagram.com/infoelegant10](https://instagram.com/jammulasrivasanth)" target="_blank"><img alt="Instagram" width="40px" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"></a> &nbsp&nbsp&nbsp
+<a href="mailto:techisrivasanth23@gmail.com" target="_blank"><img alt="Gmail" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>&nbsp&nbsp&nbsp
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srivasanth23&show_icons=true&locale=en&layout=compact" alt="srivasanth23" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srivasanth23&label=Profile%20views&color=0e75b6&style=flat" alt="srivasanth23" /> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srivasanth23&show_icons=true&locale=en" alt="srivasanth23" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srivasanth23&" alt="srivasanth23" /></p>
-
-
-
 
