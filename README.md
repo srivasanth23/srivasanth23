@@ -57,6 +57,6 @@ World Around You | HTML, CSS, JS, Bootstrap, Rest API's | [Repo](https://github.
 
 ## Support:
 </h3>
-<p><a href="https://www.buymeacoffee.com/mahimachuri"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="190" alt="MahimaChuri" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/srivasanthjammula"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="190" alt="MahimaChuri" /></a></p><br><br>
 <br>
 
