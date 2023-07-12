@@ -12,7 +12,7 @@ I've always been a dedicated student currently in 3rd year of B.Tech Computer Sc
 - Web Devloper Intern at Bharat Intern.
 
 ## ©️ Important Links
-- Portfolio: [portfolio/Srivasanth Jammula]([https://mahimachuri.netlify.app/](https://svresume.ccbp.tech/))
+- Portfolio: [portfolio/Srivasanth Jammula]((https://svresume.ccbp.tech/))
 - Projects: [github.com/srivasanth23](https://github.com/srivasanth23)
 - Linkedin: [linkedin.com/Srivasanth Jammula](www.linkedin.com/in/srivasanth-jammula)
 - Resume: [resume/Srivasanth Jammula](https://drive.google.com/file/d/1APMwwLcc3o1pfaXOYyvpb1T66HQwQ0dC/view?usp=drive_link)
