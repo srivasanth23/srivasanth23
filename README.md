@@ -12,11 +12,20 @@ I've always been a dedicated student currently in 3rd year of B.Tech Computer Sc
 - Web Devloper Intern at Bharat Intern.
 
 ## ©️ Important Links
-- Portfolio: [portfolio/Srivasanth Jammula]((https://svresume.ccbp.tech/))
+- Portfolio: [portfolio/Srivasanth Jammula](https://svresume.ccbp.tech/)
 - Projects: [github.com/srivasanth23](https://github.com/srivasanth23)
 - Linkedin: [linkedin.com/Srivasanth Jammula](www.linkedin.com/in/srivasanth-jammula)
 - Resume: [resume/Srivasanth Jammula](https://drive.google.com/file/d/1APMwwLcc3o1pfaXOYyvpb1T66HQwQ0dC/view?usp=drive_link)
-  
+
+## 🛠 Skills
+| Domain             |Tech      Stack                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Web Development | HTML, CSS, JS|
+| Databases | MYSQL, SQLlite |
+| Languages | Python, C, C++, Java, JavaScript|
+| Tools| Git, Canva, Photoshop |
+| Other| Photography, Videography |
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/srivasanth-jammula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srivasanth-jammula" height="30" width="40" /></a>
