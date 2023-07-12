@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SriVasanth Jammula</h1>
-<h3 align="center">A passionate Software developer from India. I am currently looking for a frontend internship. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3 align="center">A passionate Software developer from India. Currently looking for a frontend internships. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 ## 🚀 About Me
 I'm a full-stack developer who is passionate about making dynamic, user-friendly websites and who enjoys learning a lot about front-end and back-end.
