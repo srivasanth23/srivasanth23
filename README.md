@@ -1,22 +1,14 @@
 <h1 align="center">Hi 👋, I'm SriVasanth Jammula</h1>
-<h3 align="center">A passionate frontend developer from India. I am currently looking for a frontend internship.</h3>
+<h3 align="center">A passionate Software developer from India. I am currently looking for a frontend internship. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivasanth23&label=Profile%20views&color=0e75b6&style=flat" alt="srivasanth23" /> </p>
 
 ## 🚀 About Me
-I'm a full-stack developer who is passionate about making dynamic, user-friendly websites and who enjoys learning a lot about front-end, back-end, and UI/UX design. I'm also a Mern Stack Enthusiast..!
+I'm a full-stack developer who is passionate about making dynamic, user-friendly websites and who enjoys learning a lot about front-end and back-end.
 
-I've always been a dedicated student currently finalizing B.E. in computer engineering and prepared to contribute to organizational success while developing new skills and gaining real-world experience. 
+I've always been a dedicated student currently in 3rd year of B.Tech Computer Science & Engineering and prepared to contribute to organizational success while developing new skills and gaining real-world experience. 
 
-Highly responsible and organized with excellent writing, communication, and critical thinking abilities. 
-
-- [Open Source Contributor](https://www.linkedin.com/feed/update/urn:li:activity:7063883861092384768/) at **[GSSoC'23](https://gssoc.girlscript.tech/)**
-- UI/UX Team Member at **[TCET Open Source](https://opensource.tcetmumbai.in/)**
-- TE Inhouse Lead at **[CSI TCET](https://tcetcsi.github.io/tcetcsi/index.html)**
-- Creative Lead at **[Shastra-TCET](https://www.linkedin.com/company/tcet-shastra-coding-club/mycompany/)**
-- 🌱 I’m currently learning **Js Intermediate**
-
-- 👨‍💻 All of my projects are available at [https://svresume.ccbp.tech/](https://svresume.ccbp.tech/)
+🌱 I’m currently learning **Js Intermediate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
