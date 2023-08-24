@@ -12,7 +12,7 @@ I've always been a dedicated student currently in 3rd year of B.Tech Computer Sc
 - Web Devloper Intern at Bharat Intern.
 
 ## ©️ Important Links
-- Portfolio: [portfolio/Srivasanth Jammula](https://svresume.ccbp.tech/)
+- Portfolio: [portfolio/Srivasanth Jammula](https://jsrivportfolio.ccbp.tech/)
 - Projects: [github.com/srivasanth23](https://github.com/srivasanth23)
 - Linkedin: [linkedin.com/Srivasanth Jammula](www.linkedin.com/in/srivasanth-jammula)
 - Resume: [resume/Srivasanth Jammula](https://drive.google.com/file/d/1APMwwLcc3o1pfaXOYyvpb1T66HQwQ0dC/view?usp=drive_link)
@@ -34,7 +34,17 @@ I've always been a dedicated student currently in 3rd year of B.Tech Computer Sc
 Task Name | Tool | Source Code | 
 ------- | --------- | :--------: | 
 World Around You | HTML, CSS, JS, Bootstrap, Rest API's | [Repo](https://github.com/srivasanth23/WorldAroundYou)
+Portfolio Project | HTML, CSS, JS, Bootstrap, FlexBox | [Repo](https://github.com/srivasanth23/JammulaSrivasanth)
+Speed Type Tester | HTML, CSS, JS, Rest API's | [Repo](https://github.com/srivasanth23/Speed_Type_Tester)
+</details>
 
+<details>
+<summary><b>Data Analytics</b></summary>
+  <br/>
+
+Task Name | Tool | Source Code | 
+------- | --------- | :--------: | 
+Covid Data Exploration | SQL, SSMP (Workspace) | [Repo](https://github.com/srivasanth23/Covid_Data_Exploration)
 </details>
 
 <details>
