@@ -45,6 +45,7 @@ Speed Type Tester | HTML, CSS, JS, Rest API's | [Repo](https://github.com/srivas
 Task Name | Tool | Source Code | 
 ------- | --------- | :--------: | 
 Covid Data Exploration | SQL, SSMP (Workspace) | [Repo](https://github.com/srivasanth23/Covid_Data_Exploration)
+Sql Data Cleaning | SQL, SSMP (workspace) | [Repo](https://github.com/srivasanth23/SQL_Data_Cleaning)
 </details>
 
 <details>
