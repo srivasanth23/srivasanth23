@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SriVasanth Jammula</h1>
-<h3 align="center">A passionate Software developer from India. Currently looking for a frontend internships. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3 align="center">A passionate Software developer from India. Currently looking for a frontend internships. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
 
 ## 🚀 About Me
 I'm a full-stack developer who is passionate about making dynamic, user-friendly websites and who enjoys learning a lot about front-end and back-end.
@@ -46,6 +46,7 @@ Task Name | Tool | Source Code |
 ------- | --------- | :--------: | 
 Covid Data Exploration | SQL, SSMP (Workspace) | [Repo](https://github.com/srivasanth23/Covid_Data_Exploration)
 Sql Data Cleaning | SQL, SSMP (workspace) | [Repo](https://github.com/srivasanth23/SQL_Data_Cleaning)
+Excel Data Project | Excel | [Repo](https://github.com/srivasanth23/Excel-Project)
 </details>
 
 <details>
