@@ -47,6 +47,7 @@ Task Name | Tool | Source Code |
 Covid Data Exploration | SQL, SSMP (Workspace) | [Repo](https://github.com/srivasanth23/Covid_Data_Exploration)
 Sql Data Cleaning | SQL, SSMP (workspace) | [Repo](https://github.com/srivasanth23/SQL_Data_Cleaning)
 Excel Data Project | Excel | [Repo](https://github.com/srivasanth23/Excel-Project)
+Telangana District wise data analysis | Excel | [Repo](https://github.com/srivasanth23/Telangana_District_wise_Growth_analytics)
 </details>
 
 <details>
