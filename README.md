@@ -6,7 +6,7 @@ I'm a full-stack developer who is passionate about making dynamic, user-friendly
 
 I've always been a dedicated student currently in 3rd year of B.Tech Computer Science & Engineering and prepared to contribute to organizational success while developing new skills and gaining real-world experience. 
 
-🌱 I’m currently learning **Js Intermediate**
+🌱 I’m currently learning **MERN stack**
 
 ## 👩‍💻 Experience
 - Web Devloper Intern at Bharat Intern.
