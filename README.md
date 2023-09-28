@@ -27,7 +27,6 @@ I've always been a dedicated student currently in 3rd year of B.Tech Computer Sc
 | Other| Photography, Videography |
 
 ## 🔭 Projects
-<details>
 <summary><b>Web Devlopment</b></summary>
   <br/>
 
@@ -36,9 +35,7 @@ Task Name | Tool | Source Code |
 World Around You | HTML, CSS, JS, Bootstrap, Rest API's | [Repo](https://github.com/srivasanth23/WorldAroundYou)
 Portfolio Project | HTML, CSS, JS, Bootstrap, FlexBox | [Repo](https://github.com/srivasanth23/JammulaSrivasanth)
 Speed Type Tester | HTML, CSS, JS, Rest API's | [Repo](https://github.com/srivasanth23/Speed_Type_Tester)
-</details>
 
-<details>
 <summary><b>Data Analytics</b></summary>
   <br/>
 
@@ -48,7 +45,6 @@ Covid Data Exploration | SQL, SSMP (Workspace) | [Repo](https://github.com/sriva
 Sql Data Cleaning | SQL, SSMP (workspace) | [Repo](https://github.com/srivasanth23/SQL_Data_Cleaning)
 Excel Data Project | Excel | [Repo](https://github.com/srivasanth23/Excel-Project)
 Telangana District wise data analysis | Excel | [Repo](https://github.com/srivasanth23/Telangana_District_wise_Growth_analytics)
-</details>
 
 <details>
 <summary> <h3>📊 Github Statistics</h3> </summary>
