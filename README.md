@@ -22,9 +22,10 @@ I've always been a dedicated student currently in 3rd year of B.Tech Computer Sc
 | ----------------- | ------------------------------------------------------------------ |
 | Web Development | HTML, CSS, JS|
 | Databases | MYSQL, SQLlite |
-| Languages | Python, C, C++, Java, JavaScript|
+| Full stack | MERN |
+| Languages | Python, C, Java, JavaScript
 | Tools| Git, Canva, Photoshop |
-| Other| Photography, Videography |
+| Other| Photography, Videography Tools |
 
 ## 🔭 Projects
 <summary><b>Front-end Devlopment</b></summary>
