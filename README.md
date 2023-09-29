@@ -37,9 +37,12 @@ Portfolio Project | HTML, CSS, JS, Bootstrap, FlexBox | [Repo](https://github.co
 Speed Type Tester | HTML, CSS, JS, Rest API's | [Repo](https://github.com/srivasanth23/Speed_Type_Tester)
 
 <summary><b>Back-end Devlopment</b></summary>
-<br/>
-Task Name | Tool | Source Code |
-Twitter-Clone | Node.js, Express.js, MySQLite | [Repo](https://github.com/srivasanth23/Twitter-Back-end-Project)
+  <br/>
+
+Task Name | Tool | Source Code | 
+------- | --------- | :--------: | 
+Twitter-Clone (X) | Node.js, Express.js, MySQLite | [Repo](https://github.com/srivasanth23/Twitter-Back-end-Project)
+
 
 <summary><b>Data Analytics</b></summary>
   <br/>
