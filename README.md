@@ -27,7 +27,7 @@ I've always been a dedicated student currently in 3rd year of B.Tech Computer Sc
 | Other| Photography, Videography |
 
 ## 🔭 Projects
-<summary><b>Web Devlopment</b></summary>
+<summary><b>Front-end Devlopment</b></summary>
   <br/>
 
 Task Name | Tool | Source Code | 
@@ -35,6 +35,11 @@ Task Name | Tool | Source Code |
 World Around You | HTML, CSS, JS, Bootstrap, Rest API's | [Repo](https://github.com/srivasanth23/WorldAroundYou)
 Portfolio Project | HTML, CSS, JS, Bootstrap, FlexBox | [Repo](https://github.com/srivasanth23/JammulaSrivasanth)
 Speed Type Tester | HTML, CSS, JS, Rest API's | [Repo](https://github.com/srivasanth23/Speed_Type_Tester)
+
+<summary><b>Back-end Devlopment</b></summary>
+<br/>
+Task Name | Tool | Source Code |
+Twitter-Clone | Node.js, Express.js, MySQLite | [Repo](https://github.com/srivasanth23/Twitter-Back-end-Project)
 
 <summary><b>Data Analytics</b></summary>
   <br/>
