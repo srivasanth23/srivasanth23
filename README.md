@@ -15,7 +15,7 @@ I've always been a dedicated student currently in 3rd year of B.Tech Computer Sc
 - Portfolio: [portfolio/Srivasanth Jammula](https://jsrivportfolio.ccbp.tech/)
 - Projects: [github.com/srivasanth23](https://github.com/srivasanth23)
 - Linkedin: [linkedin.com/Srivasanth Jammula](www.linkedin.com/in/srivasanth-jammula)
-- Resume: [resume/Srivasanth Jammula](https://drive.google.com/file/d/1APMwwLcc3o1pfaXOYyvpb1T66HQwQ0dC/view?usp=drive_link)
+- Resume: [resume/Srivasanth Jammula](https://drive.google.com/file/d/12U_lkmQV9Wr0gD4Pemu3Q0q7S3JXqRhB/view?usp=sharing)
 
 ## 🛠 Skills
 | Domain             |Tech      Stack                                                                |
