@@ -20,10 +20,10 @@ I've always been a dedicated student currently in 3rd year of B.Tech Computer Sc
 ## 🛠 Skills
 | Domain             |Tech      Stack                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Web Development | HTML, CSS, JS|
+| Web Development | HTML, CSS, JS, Bootstrap|
 | Databases | MYSQL, SQLlite |
 | Full stack | MERN |
-| Languages | Python, C, Java, JavaScript
+| Languages | Python, JavaScript |
 | Tools| Git, Canva, Photoshop |
 | Other| Photography, Videography Tools |
 
@@ -33,6 +33,7 @@ I've always been a dedicated student currently in 3rd year of B.Tech Computer Sc
 
 Task Name | Tool | Source Code | 
 ------- | --------- | :--------: | 
+Emoji Game | ReactJS, JSX | [Repo](https://github.com/srivasanth23/Emoji_Game)
 World Around You | HTML, CSS, JS, Bootstrap, Rest API's | [Repo](https://github.com/srivasanth23/WorldAroundYou)
 Portfolio Project | HTML, CSS, JS, Bootstrap, FlexBox | [Repo](https://github.com/srivasanth23/JammulaSrivasanth)
 Speed Type Tester | HTML, CSS, JS, Rest API's | [Repo](https://github.com/srivasanth23/Speed_Type_Tester)
