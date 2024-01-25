@@ -6,7 +6,7 @@ I'm a full-stack developer who is passionate about making dynamic, user-friendly
 
 I've always been a dedicated student currently in 3rd year of B.Tech Computer Science & Engineering and prepared to contribute to organizational success while developing new skills and gaining real-world experience. 
 
-🌱 I’m currently learning **MERN stack**
+🌱 I’m currently learning **DSA stack**
 
 ## 👩‍💻 Experience
 - Web Devloper Intern at Bharat Intern.
@@ -21,6 +21,7 @@ I've always been a dedicated student currently in 3rd year of B.Tech Computer Sc
 | Domain             |Tech      Stack                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Web Development | HTML, CSS, JS, Bootstrap|
+| Stack Development | MER(A)N |
 | Databases | MYSQL, SQLlite |
 | Full stack | MERN |
 | Languages | Python, JavaScript |
@@ -33,6 +34,7 @@ I've always been a dedicated student currently in 3rd year of B.Tech Computer Sc
 
 Task Name | Tool | Source Code | 
 ------- | --------- | :--------: | 
+Updating soon... |  |   |
 Emoji Game | ReactJS, JSX | [Repo](https://github.com/srivasanth23/Emoji_Game)
 World Around You | HTML, CSS, JS, Bootstrap, Rest API's | [Repo](https://github.com/srivasanth23/WorldAroundYou)
 Portfolio Project | HTML, CSS, JS, Bootstrap, FlexBox | [Repo](https://github.com/srivasanth23/JammulaSrivasanth)
