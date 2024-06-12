@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Software developer from India. Currently looking for a frontend internships. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
 
 ## 🚀 About Me
-I'm a full-stack developer who is passionate about making dynamic, user-friendly websites and who enjoys learning a lot about front-end and back-end.
+I'm a MERN stack developer who is passionate about making dynamic, user-friendly websites and who enjoys learning a lot about front-end and back-end.
 
-I've always been a dedicated student currently in 3rd year of B.Tech Computer Science & Engineering and prepared to contribute to organizational success while developing new skills and gaining real-world experience. 
+I've always been a dedicated student currently in 4th year of B.Tech Computer Science & Engineering and prepared to contribute to organizational success while developing new skills and gaining real-world experience. 
 
-🌱 I’m currently learning **DSA stack**
+🌱 I’m currently learning **DSA**
 
 ## 👩‍💻 Experience
 - Python Developer at ArtBider.
@@ -15,18 +15,17 @@ I've always been a dedicated student currently in 3rd year of B.Tech Computer Sc
 - Portfolio: [portfolio/Srivasanth Jammula](https://jsrivportfolio.ccbp.tech/)
 - Projects: [github.com/srivasanth23](https://github.com/srivasanth23)
 - Linkedin: [linkedin.com/Srivasanth Jammula](www.linkedin.com/in/srivasanth-jammula)
-- Resume: [resume/Srivasanth Jammula](https://drive.google.com/file/d/12U_lkmQV9Wr0gD4Pemu3Q0q7S3JXqRhB/view?usp=sharing)
+- Resume: [resume/Srivasanth Jammula](https://drive.google.com/file/d/1Es0A00fbWyde_3g5gSTQwoimsYHAgKJn/view?usp=drive_link)
 
 ## 🛠 Skills
 | Domain             |Tech      Stack                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Web Development | HTML, CSS, JS, Bootstrap|
-| Stack Development | MER(A)N |
-| Databases | MYSQL, SQLlite |
-| Full stack | MERN |
-| Languages | Python, JavaScript |
-| Tools| Git, Canva, Photoshop |
-| Other| Photography, Videography Tools |
+| Frontend | React.js, Bootstrap|
+| Backend | Node.js, Express.js |
+| Databases | MYSQL, SQLlite, MongoDB |
+| Languages | Python, CPP |
+| Cloud computing | AWS, Azure |
+| Other| HTML, CSS, JS Fundamentals, Photography, Videography Tools, VScode, Git, Canva, Photoshop |
 
 ## 🔭 Projects
 <summary><b>Front-end Devlopment</b></summary>
@@ -45,6 +44,7 @@ Speed Type Tester | HTML, CSS, JS, Rest API's | [Repo](https://github.com/srivas
 
 Task Name | Tool | Source Code | 
 ------- | --------- | :--------: | 
+Updating soon... |  |   |
 Twitter-Clone (X) | Node.js, Express.js, MySQLite | [Repo](https://github.com/srivasanth23/Twitter-Back-end-Project)
 
 
