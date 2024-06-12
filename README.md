@@ -9,7 +9,7 @@ I've always been a dedicated student currently in 3rd year of B.Tech Computer Sc
 🌱 I’m currently learning **DSA stack**
 
 ## 👩‍💻 Experience
-- Web Devloper Intern at Bharat Intern.
+- Python Developer at ArtBider.
 
 ## ©️ Important Links
 - Portfolio: [portfolio/Srivasanth Jammula](https://jsrivportfolio.ccbp.tech/)
