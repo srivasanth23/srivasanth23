@@ -34,7 +34,7 @@
 
 Task Name | Tool | Source Code | 
 ------- | --------- | :--------: | 
-Will update soon... |  |   |
+ | Will update soon... |   |
 Emoji Game | ReactJS, JSX | [Repo](https://github.com/srivasanth23/Emoji_Game)
 World Around You | HTML, CSS, JS, Bootstrap, Rest API's | [Repo](https://github.com/srivasanth23/WorldAroundYou)
 Portfolio Project | HTML, CSS, JS, Bootstrap, FlexBox | [Repo](https://github.com/srivasanth23/JammulaSrivasanth)
@@ -45,7 +45,7 @@ Speed Type Tester | HTML, CSS, JS, Rest API's | [Repo](https://github.com/srivas
 
 Task Name | Tool | Source Code | 
 ------- | --------- | :--------: | 
-Will update soon... |  |   |
+ | Will update soon... |   |
 Twitter-Clone (X) | Node.js, Express.js, MySQLite | [Repo](https://github.com/srivasanth23/Twitter-Back-end-Project)
 
 
@@ -59,7 +59,6 @@ Sql Data Cleaning | SQL, SSMP (workspace) | [Repo](https://github.com/srivasanth
 Excel Data Project | Excel | [Repo](https://github.com/srivasanth23/Excel-Project)
 Telangana District wise data analysis | Excel | [Repo](https://github.com/srivasanth23/Telangana_District_wise_Growth_analytics)
 
-<details>
 <summary> <h3>📊 Github Statistics</h3> </summary>
 <div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivasanth23&label=Profile%20views&color=0e75b6&style=flat" alt="srivasanth23" /> </p>
@@ -67,8 +66,8 @@ Telangana District wise data analysis | Excel | [Repo](https://github.com/srivas
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srivasanth23&show_icons=true&locale=en" alt="srivasanth23" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srivasanth23&" alt="srivasanth23" /></p>
 </div>
-</details>
-
+<!-- <details></details>
+ -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.github.com/srivasanth23" target="_blank"><img alt="Github" width="40px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"></a> &nbsp&nbsp&nbsp
