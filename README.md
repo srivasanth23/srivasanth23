@@ -1,31 +1,32 @@
 <h1 align="center">Hi 👋, I'm SriVasanth Jammula</h1>
-<h3 align="center">A passionate Software developer from India. Currently looking for a frontend internships. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
+<h3 align="center">A passionate Software developer from India. Currently looking for a Software related jobs. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
 
-## 🚀 About Me
-I'm a MERN stack developer who is passionate about making dynamic, user-friendly websites and who enjoys learning a lot about front-end and back-end.
+### Full-Stack Software Engineer | Software Development Enthusiast | Technophile | Hodophile ...
 
-I've always been a dedicated student currently in 4th year of B.Tech Computer Science & Engineering and prepared to contribute to organizational success while developing new skills and gaining real-world experience. 
-
-🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA**
+- 🔭 I’m currently working to become a Full Stack Developer
+- 🤔 Gonna explore AI and Data Science
+- 👯 I’m looking to collaborate with other developers
+- ⚡ Techthusiast
 
 ## 👩‍💻 Experience
 - Python Developer at ArtBider.
 
 ## ©️ Important Links
-- Portfolio: [portfolio/Srivasanth Jammula](https://jsrivportfolio.ccbp.tech/)
+- Portfolio: [portfolio/Srivasanth Jammula](https://jsrivportfolio.ccbp.tech/)[old]
 - Projects: [github.com/srivasanth23](https://github.com/srivasanth23)
 - Linkedin: [linkedin.com/Srivasanth Jammula](www.linkedin.com/in/srivasanth-jammula)
-- Resume: [resume/Srivasanth Jammula](https://drive.google.com/file/d/1Es0A00fbWyde_3g5gSTQwoimsYHAgKJn/view?usp=drive_link)
+- Resume: [resume/Srivasanth Jammula](https://drive.google.com/file/d/1vyw1hb1yf-XHmEzhOwX4s6cEKzZD3_i1/view?usp=sharing)
 
 ## 🛠 Skills
 | Domain             |Tech      Stack                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Frontend | React.js, Bootstrap|
+| Frontend | React.js, Bootstrap, Scss, Tailwand CSS|
 | Backend | Node.js, Express.js |
-| Databases | MYSQL, SQLlite, MongoDB |
+| Databases | MYSQL, SQLlite |
 | Languages | Python, CPP |
-| Cloud computing | AWS, Azure |
-| Other| HTML, CSS, JS Fundamentals, Photography, Videography Tools, VScode, Git, Canva, Photoshop |
+| Cloud computing | Azure |
+| Other| HTML, CSS, VScode, Git, Canva, Figma |
 
 ## 🔭 Projects
 <summary><b>Front-end Devlopment</b></summary>
@@ -33,7 +34,7 @@ I've always been a dedicated student currently in 4th year of B.Tech Computer Sc
 
 Task Name | Tool | Source Code | 
 ------- | --------- | :--------: | 
-Updating soon... |  |   |
+Will update soon... |  |   |
 Emoji Game | ReactJS, JSX | [Repo](https://github.com/srivasanth23/Emoji_Game)
 World Around You | HTML, CSS, JS, Bootstrap, Rest API's | [Repo](https://github.com/srivasanth23/WorldAroundYou)
 Portfolio Project | HTML, CSS, JS, Bootstrap, FlexBox | [Repo](https://github.com/srivasanth23/JammulaSrivasanth)
@@ -44,7 +45,7 @@ Speed Type Tester | HTML, CSS, JS, Rest API's | [Repo](https://github.com/srivas
 
 Task Name | Tool | Source Code | 
 ------- | --------- | :--------: | 
-Updating soon... |  |   |
+Will update soon... |  |   |
 Twitter-Clone (X) | Node.js, Express.js, MySQLite | [Repo](https://github.com/srivasanth23/Twitter-Back-end-Project)
 
 
