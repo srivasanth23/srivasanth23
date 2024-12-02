@@ -63,8 +63,8 @@ Telangana District wise data analysis | Excel | [Repo](https://github.com/srivas
 <div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivasanth23&label=Profile%20views&color=0e75b6&style=flat" alt="srivasanth23" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srivasanth23&show_icons=true&locale=en&layout=compact" alt="srivasanth23" /></p>
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srivasanth23&show_icons=true&locale=en" alt="srivasanth23" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srivasanth23&" alt="srivasanth23" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srivasanth23&show_icons=true&locale=en" alt="srivasanth23" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srivasanth23&" alt="srivasanth23" /></p>
 </div>
 </details>
 
