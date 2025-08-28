@@ -3,20 +3,21 @@
 
 ### Full-Stack Software Engineer | Software Development Enthusiast | Technophile | Hodophile ...
 
-- 🌱 I’m currently learning **DSA**
-- 🔭 I’m currently working to become a Full Stack Developer
+- 🌱 I’m currently learning **C#**
+- 🔭 I’m currently working at **IBM**
 - 🤔 Gonna explore AI and Data Science
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Techthusiast
 
 ## 👩‍💻 Experience
 - Python Developer at ArtBider.
+- Fullstack developer and Native developer at Zignuts Technolab
 
 ## ©️ Important Links
 - Portfolio: [portfolio/Srivasanth Jammula](https://jsrivportfolio.ccbp.tech/)[old]
 - Projects: [github.com/srivasanth23](https://github.com/srivasanth23)
 - Linkedin: [linkedin.com/Srivasanth Jammula](www.linkedin.com/in/srivasanth-jammula)
-- Resume: [resume/Srivasanth Jammula](https://drive.google.com/file/d/1vyw1hb1yf-XHmEzhOwX4s6cEKzZD3_i1/view?usp=sharing)
+
 
 ## 🛠 Skills
 | Domain             |Tech      Stack                                                                |
