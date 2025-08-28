@@ -22,12 +22,12 @@
 ## 🛠 Skills
 | Domain             |Tech      Stack                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Frontend | React.js, Bootstrap, Scss, Tailwand CSS|
-| Backend | Node.js, Express.js |
+| Programming Language | Python, Javascript, CPP, C# |
+| Frameworks | ASP.NET Core, Node.js, Express.js, Next.js, React.js |
 | Databases | MYSQL, SQLlite |
-| Languages | Python, CPP |
 | Cloud computing | Azure |
-| Other| HTML, CSS, VScode, Git, Canva, Figma |
+| Native languages | React Native |
+| Other| HTML, CSS, MUI, Zustand, Redux |
 
 ## 🔭 Projects
 <summary><b>Front-end Devlopment</b></summary>
