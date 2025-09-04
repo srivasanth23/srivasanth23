@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm SriVasanth Jammula</h1>
-<h3 align="center">A passionate Software developer from India. Currently looking for a Software related jobs. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
+<h3 align="center">A passionate Software developer from India. I am currently a .NET developer at IBM and learning Devops <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
 
 ### Full-Stack Software Engineer | Software Development Enthusiast | Technophile | Hodophile ...
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Devops, AI/ML**
 - 🔭 I’m currently working at **IBM**
-- 🤔 Gonna explore AI and Data Science
+- 7.6 CGPA in my B.Tech.
+- 🤔 Gonna explore AI and Data Science more
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Techthusiast
 
 ## 👩‍💻 Experience
 - Python Developer at ArtBider.
-- Fullstack developer and Native developer at Zignuts Technolab
+- Fullstack developer and Native developer at Zignuts Technolab.
+
 
 ## ©️ Important Links
 - Portfolio: [portfolio/Srivasanth Jammula](https://jsrivportfolio.ccbp.tech/)[old]
@@ -30,12 +32,29 @@
 | Other| HTML, CSS, MUI, Zustand, Redux |
 
 ## 🔭 Projects
+<summary><b> ASP.NET Devlopment</b></summary>
+  <br/>
+
+Task Name | Tool | Source Code | 
+------- | --------- | :--------: | 
+ | Updated... |   |
+NZ Walks | Web API, ASP.NET MVC, Razor Pages | [Repo](https://github.com/srivasanth23/NZWalks)
+Mutual Fund Returns | C#, Class Library | [Repo](https://github.com/srivasanth23/MutualFundReturns_ClassLibrary)
+Employee Web API | ASP.NET, Web API | [Repo](https://github.com/srivasanth23/Employees_WebAPI_Backend)
+Employee Razor pages | ASP.NET Core, Razor pages | [Repo](https://github.com/srivasanth23/Employee_RazorPages_WebAPI_Frontend)
+Car Rental Application | ASP.NET MVC, Repositarty pattern | [Repo](https://github.com/srivasanth23/CarRental_MVC_RP)
+Bloggie web application | ASP.NET MVC | [Repo](https://github.com/srivasanth23/BloggieWebApplication_CSharp)
+Student Management with Repositary Pattern | ASP.NET MVC | [Repo](https://github.com/srivasanth23/WebAppStudent_Repositary_Pattern)
+Student Management | ASP.NET MVC | [Repo](https://github.com/srivasanth23/StudentMangementCRUD_CSharp)
+Online Shopping | ASP.NET MVC | [Repo](https://github.com/srivasanth23/OnlineShopping)
+Employee Wages Console Application | C# | [Repo](https://github.com/srivasanth23/EmployeeMonthlyWages)
+
 <summary><b>Front-end Devlopment</b></summary>
   <br/>
 
 Task Name | Tool | Source Code | 
 ------- | --------- | :--------: | 
- | Will update soon... |   |
+ |**Note** Will update soon... |   |
 Emoji Game | ReactJS, JSX | [Repo](https://github.com/srivasanth23/Emoji_Game)
 World Around You | HTML, CSS, JS, Bootstrap, Rest API's | [Repo](https://github.com/srivasanth23/WorldAroundYou)
 Portfolio Project | HTML, CSS, JS, Bootstrap, FlexBox | [Repo](https://github.com/srivasanth23/JammulaSrivasanth)
@@ -46,7 +65,7 @@ Speed Type Tester | HTML, CSS, JS, Rest API's | [Repo](https://github.com/srivas
 
 Task Name | Tool | Source Code | 
 ------- | --------- | :--------: | 
- | Will update soon... |   |
+ |**Note** Will update soon... |   |
 Twitter-Clone (X) | Node.js, Express.js, MySQLite | [Repo](https://github.com/srivasanth23/Twitter-Back-end-Project)
 
 
